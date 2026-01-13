@@ -47,5 +47,6 @@ et à la compréhension des vulnérabilités web.
 ---
 
 ## 📫 Contact
-📧 Email : corleonesow60@gmail.com  bsow32936@gmail.com
+📧 Email : corleonesow60@gmail.com 
+            bsow32936@gmail.com         
 🔗 GitHub : https://github.com/BoubacarSow99
