@@ -27,7 +27,7 @@ localisation: 🌍
 mindset: "Coder, Sécuriser, Répéter."
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
 
 - 🔭 Je développe des **applications web modernes et sécurisées**
 - 🛡️ Passionné par la **sécurité des applications** et le **pentesting**
@@ -47,60 +47,31 @@ mindset: "Coder, Sécuriser, Répéter."
 
 ### 💻 Langages & Frameworks
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48"/>
-<br><b>Python</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48"/>
-<br><b>Django</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48"/>
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48"/>
-<br><b>React</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>
-<br><b>Node.js</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
-<br><b>HTML5</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/>
-<br><b>CSS3</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
-<br><b>Git</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
-<br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/>
-<br><b>Linux</b>
-</td>
-</tr>
-</table>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs&theme=dark" alt="Langages & Frameworks" />
+</a>
+
+<br/><br/>
+
+### 🎨 Frontend & Markup
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Frontend" />
+</a>
+
+<br/><br/>
 
 ### 🔧 Outils & Environnement
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Outils" />
+</a>
+
+<br/><br/>
+
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
@@ -134,23 +105,24 @@ mindset: "Coder, Sécuriser, Répéter."
 
 <div align="center">
 
+<!-- GitHub Stats Card -->
 <a href="https://github.com/BoubacarSow99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoubacarSow99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoubacarSow99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoubacarSow99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Langs"/>
 </a>
 
 <br/><br/>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak - Using demolab (stable) -->
 <a href="https://github.com/BoubacarSow99">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoubacarSow99&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=BoubacarSow99&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/BoubacarSow99">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoubacarSow99&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=📈%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoubacarSow99&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true&custom_title=📈%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </a>
 
 </div>
