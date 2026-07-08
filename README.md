@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Boubacar%20Sow&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Développeur%20Full%20Stack%20%7C%20Passionné%20Cybersécurité&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Artemis&fontSize=70&fontColor=58a6ff&fontAlignY=32&desc=Vitesse%20et%20précision%20%3A%20Artémis%20est%20en%20ligne&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Bienvenue+sur+mon+profil+GitHub+👋;Full+Stack+Developer+💻;Cybersecurity+Enthusiast+🔐;Always+Learning+%26+Building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=⚡+Vitesse+et+précision+%3A+Artémis+est+en+ligne+⚡;Full+Stack+Developer+💻;Cybersecurity+Enthusiast+🔐;Always+Learning+%26+Building+🚀)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,9 +21,11 @@
 
 ```yaml
 nom: Boubacar Sow
+alias: Artemis ⚡
 rôle: Développeur Full Stack (Intermédiaire)
 passion: Cybersécurité & Pentesting
 localisation: 🌍
+slogan: "Vitesse et précision : Artémis est en ligne."
 mindset: "Coder, Sécuriser, Répéter."
 ```
 
@@ -33,7 +35,7 @@ mindset: "Coder, Sécuriser, Répéter."
 - 🛡️ Passionné par la **sécurité des applications** et le **pentesting**
 - 📚 En apprentissage continu sur l'**OWASP Top 10** et les techniques offensives
 - 🎯 Objectif : devenir un **développeur orienté cybersécurité**
-- ⚡ Devise : *« La sécurité n'est pas un produit, c'est un processus »*
+- ⚡ Devise : *« Vitesse et précision : Artémis est en ligne »*
 - 📫 Me contacter : **corleonesow60@gmail.com** | **bsow32936@gmail.com**
 
 <br clear="right"/>
@@ -201,7 +203,7 @@ mindset: "Coder, Sécuriser, Répéter."
 
 <div align="center">
 
-### 💬 *« La sécurité n'est pas un produit, c'est un processus. »* — Bruce Schneier
+### ⚡ *« Vitesse et précision : Artémis est en ligne. »*
 
 ⭐ **N'hésitez pas à explorer mes repos et laisser une étoile !** ⭐
 
