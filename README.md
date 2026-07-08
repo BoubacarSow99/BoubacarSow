@@ -105,17 +105,32 @@ mindset: "Coder, Sécuriser, Répéter."
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
+<!-- Stats & Top Languages (github-profile-summary-cards - reliable) -->
 <a href="https://github.com/BoubacarSow99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoubacarSow99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoubacarSow99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BoubacarSow99&theme=github_dark" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs-by-repos?username=BoubacarSow99&theme=github_dark" alt="Top Langs" height="180em"/>
 </a>
 
 <br/><br/>
 
-<!-- GitHub Streak - Using demolab (stable) -->
+<!-- Repos per Language & Commits per Language -->
 <a href="https://github.com/BoubacarSow99">
-  <img src="https://streak-stats.demolab.com/?user=BoubacarSow99&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BoubacarSow99&theme=github_dark" alt="Repos per Language" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BoubacarSow99&theme=github_dark&utcOffset=1" alt="Productive Time" height="180em"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Summary -->
+<a href="https://github.com/BoubacarSow99">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoubacarSow99&theme=github_dark" alt="Profile Details" width="95%"/>
+</a>
+
+<br/><br/>
+
+<!-- GitHub Streak (demolab - stable & tested ✅) -->
+<a href="https://github.com/BoubacarSow99">
+  <img src="https://streak-stats.demolab.com/?user=BoubacarSow99&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
