@@ -24,7 +24,7 @@ nom: Boubacar Sow
 alias: Artemis ⚡
 rôle: Développeur Full Stack (Intermédiaire)
 passion: Cybersécurité & Pentesting
-localisation: 🌍
+localisation: 🇬🇳 Guinée, Conakry
 slogan: "Vitesse et précision : Artémis est en ligne."
 mindset: "Coder, Sécuriser, Répéter."
 ```
